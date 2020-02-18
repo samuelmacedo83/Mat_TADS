@@ -10,3 +10,4 @@ iris %>%  #ctr+shift+m= novo pipe
 
 mutate(iris, Petal.Length2=Petal.Length+2) #cria nova coluna depois da última com nome dado + informação inserida.
 
+# alterei aqui, depois apaga :)
